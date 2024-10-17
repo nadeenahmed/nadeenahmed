@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Nadeen Ahmed</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">A Data Science Intern at Atos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeenahmed&label=Profile%20views&color=0e75b6&style=flat" alt="nadeenahmed" /> </p>
 
