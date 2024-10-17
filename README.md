@@ -6,16 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeenahmed" alt="nadeenahmed" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **python, ML**
-
-- 📫 How to reach me **nadeen262002@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VDd4qSUVHyLP1uyIzuWcdUCNkmFd_sdQosM1xKEqL8M/edit?usp=sharing](https://docs.google.com/document/d/1VDd4qSUVHyLP1uyIzuWcdUCNkmFd_sdQosM1xKEqL8M/edit?usp=sharing)
-
-- ⚡ Fun fact **My personality type is INFP**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadeenahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadeenahmed" height="30" width="40" /></a>
